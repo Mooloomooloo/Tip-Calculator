@@ -38,8 +38,8 @@ learning these languages, including php.net, codeacademy.com, and w3schools.com.
 the application a bit late, so I am definitely going to go back and review a lot of what 
 I read. A problem I encountered was that my WAMP doesn't open the projects from localhost. 
 TA Tejen helped point that out as a possible as to why my php code wasn't working. Another
-problem I encountered is that imgur generates a blob url for my gif. Still not too sure
-how fix it. Currently looking into it. Overall, this was challenging but great learning 
+problem I encountered is that imgur generates a blob url for my gif. I'm still not too sure
+how to fix it and currently looking into it. Overall, this was challenging but great learning 
 experience.
 
 ## License
