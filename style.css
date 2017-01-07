@@ -1,0 +1,39 @@
+body {
+  background-color: lightblue;
+  margin-top: 50px;
+  margin-right: 400px;
+  margin-left: 400px;
+  border: 2px solid black;
+}
+
+h2 {
+  color: navy;
+  margin-right: 200px;
+  margin-left: 200px;
+  border-bottom: 2px solid navy;
+}
+
+.fieldErr {
+  color: red;
+  font-weight: bold;
+  display: inline;
+}
+
+.resultErr {
+  color:red;
+  padding: 10px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-color: yellow;
+  border: 3px solid red;
+}
+
+.result {
+  padding: 10px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-color: lightgreen;
+  border: 3px solid black;
+}
+
+
