@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/1cc05edc-edcb-4b33-aee1-7ab4e893bec5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='blob:http://imgur.com/a8e676b2-c8d9-4634-a8a9-9862c140e986' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,8 +37,10 @@ languages (HTML, CSS, PHP) used in application. I looked into many websites to s
 learning these languages, including php.net, codeacademy.com, and w3schools.com. I began
 the application a bit late, so I am definitely going to go back and review a lot of what 
 I read. A problem I encountered was that my WAMP doesn't open the projects from localhost. 
-TA Tejen helped point that out as a possible as to why my php code wasn't working. Overall, 
-this was challenging but great learning experience.
+TA Tejen helped point that out as a possible as to why my php code wasn't working. Another
+problem I encountered is that imgur generates a blob url for my gif. Still not too sure
+how fix it. Currently looking into it. Overall, this was challenging but great learning 
+experience.
 
 ## License
 
